@@ -1,6 +1,6 @@
 # Hi, I'm Dawson 👋
 
-I'm a full-stack developer with an interest in backend development, based in Manitoba, Canada.
+I'm a full-stack developer with an interest in backend development, based in Canada.
 I build and refine software by identifying problems and creating solutions that I believe can be better.
 
 ## 🔧 Tech Stack  
