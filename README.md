@@ -4,7 +4,7 @@ I'm a software developer with an interest in backend development, based in Canad
 I build and refine software by identifying problems and creating solutions that I believe can be better.
 
 ## 🔧 Tech Stack  
-**Languages:** C#, Java, JavaScript, Ruby 
+**Languages:** C#, Java, JavaScript, Ruby  
 **Frameworks:** .Net, Ruby on Rails, Node.js/Express, React  
 **Tools:** MySQL, PostgreSQL, Docker, Git  
 **Styling:** Tailwind CSS  
