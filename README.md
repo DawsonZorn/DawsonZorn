@@ -5,8 +5,8 @@ I build and refine software by identifying problems and creating solutions that 
 
 ## 🔧 Tech Stack  
 **Languages:** C#, Java, JavaScript, Ruby  
-**Frameworks:** .Net, Ruby on Rails, Node.js/Express, React  
-**Tools:** MySQL, PostgreSQL, Docker, Git  
+**Frameworks:** .Net/ASP.Net, Ruby on Rails, Node.js/Express, React  
+**Tools:** MySQL, PostgreSQL, Docker, Git, SQLite
 **Styling:** Tailwind CSS  
 
 ## 📫 Contact  
